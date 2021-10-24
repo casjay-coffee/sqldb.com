@@ -67,4 +67,5 @@ $cfg['PropertiesNumColumns'] = 2;
 $cfg['QueryHistoryDB'] = true;
 $cfg['QueryHistoryMax'] = 100;
 $cfg['SendErrorReports'] = 'always';
+$cfg['ThemeDefault'] = 'darkwolf';
 
